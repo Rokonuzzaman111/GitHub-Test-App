@@ -36,6 +36,12 @@ class _HomePage extends State<HomePage> {
 
                 Text("Hello Flutter"),
 
+                Container(
+                  height: 450,
+                  width: 250,
+                  color: Colors.grey
+                )
+
         ],
       ),
       backgroundColor: Colors.amber,
