@@ -15,6 +15,12 @@ class _SignUpPageState extends State<SignUpPage> {
         children: [
           Center(
             child: Text('Sign Up Now'),
+          ),
+          TextButton
+          (onPressed: (){
+
+          }, 
+          child: Text("Submit")
           )
         ],
       ),
