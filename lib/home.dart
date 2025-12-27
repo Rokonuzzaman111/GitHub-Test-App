@@ -76,7 +76,12 @@ class _HomePage extends State<HomePage> {
                   ],
 
                 ),
+<<<<<<< HEAD
                 Icon(Icons.ac_unit_outlined),
+=======
+                ListTile(title: Text("hello flutter"),)
+
+>>>>>>> main
 
         ],
       ),
