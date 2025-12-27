@@ -24,8 +24,18 @@ class _HomePage extends State<HomePage> {
           (onPressed: (){
 
           }, 
-          child: Text("Hello FLltter ")
-          )
+          child: Text("Hello Flutter ")
+          ),
+          Text("Hello Flutter"),
+           Text("Hello Flutter"),
+
+            Text("Hello Flutter"),
+             Text("Hello Flutter"),
+              Text("Hello Flutter"),
+               Text("Hello Flutter"),
+
+                Text("Hello Flutter"),
+
         ],
       ),
       backgroundColor: Colors.amber,
