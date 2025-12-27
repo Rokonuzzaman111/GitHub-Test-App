@@ -75,7 +75,8 @@ class _HomePage extends State<HomePage> {
 
                   ],
 
-                )
+                ),
+                Icon(Icons.ac_unit_outlined),
 
         ],
       ),
