@@ -40,6 +40,41 @@ class _HomePage extends State<HomePage> {
                   height: 450,
                   width: 250,
                   color: Colors.grey
+                ),
+
+                ListView(
+                  scrollDirection: Axis.horizontal,
+                  children: [
+                    Container(
+                  height: 450,
+                  width: 250,
+                  color: Colors.grey
+                ),
+                  Container(
+                  height: 450,
+                  width: 250,
+                  color: Colors.grey
+                ),
+
+
+
+                 Container(
+                  height: 450,
+                  width: 250,
+                  color: Colors.grey
+                ),
+
+
+
+               Container(
+                  height: 450,
+                  width: 250,
+                  color: Colors.grey
+                ),
+
+
+                  ],
+
                 )
 
         ],
